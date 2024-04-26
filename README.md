@@ -1,0 +1,2 @@
+# jushs-bot
+discord bot
