@@ -4,35 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a799fd8-b1db-43f9-9c21-9b5cdd66ec51" name="Changes" comment="beggining">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+    <list default="true" id="0a799fd8-b1db-43f9-9c21-9b5cdd66ec51" name="Changes" comment="complete discord bot code with lavaplayer included">
       <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jush/CommandManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jush/ICommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jush/Listeneres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jush/commands/Ban.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jush/commands/Buttons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jush/commands/Embed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jush/commands/Modals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jush/commands/Mute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jush/commands/Staff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jush/commands/Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jush/commands/UnStaff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jush/commands/Unmute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jush/commands/music/NowPlaying.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jush/commands/music/Play.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jush/commands/music/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jush/commands/music/Repeat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jush/commands/music/Skip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jush/commands/music/Stop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jush/lavaplayer/AudioForwarder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jush/lavaplayer/GuildMusicManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jush/lavaplayer/PlayerManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jush/lavaplayer/TrackScheduler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jush/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jush/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +102,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714115984684</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="complete discord bot code with lavaplayer included">
+      <option name="closed" value="true" />
+      <created>1714124395962</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714124395962</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -157,6 +138,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="beggining" />
-    <option name="LAST_COMMIT_MESSAGE" value="beggining" />
+    <MESSAGE value="complete discord bot code with lavaplayer included" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete discord bot code with lavaplayer included" />
   </component>
 </project>
