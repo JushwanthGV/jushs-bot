@@ -2,8 +2,8 @@ plugins {
     id 'java'
 }
 
-group = 'com.jush'
-version = '1.0.0'
+group 'com.relaxingleg'
+version '1.0.0'
 
 repositories {
     mavenCentral()
@@ -17,3 +17,9 @@ dependencies {
     implementation 'com.sedmelluq:lavaplayer:1.3.77'
 }
 
+
+task runApp(type: JavaExec) {
+    main = 'com.jush.Main'
+    classpath = sourceSets.main.runtimeClasspath
+    systemProperty "discordToken", project.findProperty("discordToken")
+}
